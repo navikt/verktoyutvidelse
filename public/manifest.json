@@ -1,0 +1,18 @@
+{
+  "short_name": "NAV Verktøy",
+  "name": "NAV Verktøy",
+  "icons": {
+    "16": "suitcase.png",
+    "48": "suitcase.png",
+   "128": "suitcase.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "manifest_version": 3,
+  "version": "0.0.1",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "NAV Verktøy",
+    "default_icon": "suitcase.png"  }
+}
